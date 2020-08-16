@@ -8,6 +8,8 @@
 - 📫 How to reach me: lorandkallai@gmail.com 
 - ⚡ Fun fact: Spending more time with coding than with my GF...
 
+
+Weekly developement breakdown:
 <!--START_SECTION:waka-->
 ```text
 JavaScript   29 mins         █████████████████████████   100.00 %
