@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a real world project, to have some automotive supplier related task in a list
+- 🔭 I’m currently working on a real world project, to have some automotive supplier related task and document in  a database
 - 🌱 I’m currently learning React, Firebase
 - 👯 I’m looking to collaborate on any React - Node.js related program
 - 🤔 I’m looking for help with ...
