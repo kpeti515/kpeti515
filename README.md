@@ -21,11 +21,17 @@ My purpose is to Learn the web development principles and modern techniques and 
 ---
 <a href="https://github.com/kpeti515/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpeti515&hide=asp&layout=compac" alt="top languages HTML remained from the beginning" align="right" /></a>
 ## [✨ I'm available for hire! ✨]
+
 👯 If you are thinking about hire me, you can check [my **Portfolio** website](https://kpeti515.github.io/).
+
 👈 Here are my contact details...\
+
 ...unless you're on a small screen, and they're up there ☝️\
+
 the easiest way [💬 contact me on LinkedIn](https://www.linkedin.com/in/lorand-kallai-67747b183/) or send directly an e-mail to 📫<lorandkallai@gmail.com>.
+
 ---
+
 Weekly developement breakdown:
 <!--START_SECTION:waka-->
 ```text
