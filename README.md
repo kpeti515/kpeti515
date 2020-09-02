@@ -4,11 +4,11 @@
 
 I'm a hungarian junior web developer.
 
-My purpose is to Learn the web development principles and modern techniques and turn them into a creative product which can support peoples / companies.
+My purpose is to learn the web development principles and modern techniques and turn them into a creative product which can support peoples / companies.
 
 ---
 
-## 🚧 Current projects
+## 🚧 Current project
 <a href="https://github.com/kpeti515/fb_storeage_learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kpeti515&repo=fb_storeage_learn" alt="firebase_storage_learn statistics" align="right"></a>
 🔭 I’m currently working on a real world project, to have some automotive supplier related task and document in  a database.
 
