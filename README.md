@@ -1,6 +1,7 @@
 <a href="https://github.com/kpeti515/"><img src="https://github-readme-stats.vercel.app/api?username=kpeti515&show_icons=true&count_private=true" align="right" /></a>
 
-# Hi there 👋 I'm Lorand Kallai
+# Hi there 👋 
+# I'm Lorand Kallai
 
 I'm a hungarian junior web developer.
 
