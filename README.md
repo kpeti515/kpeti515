@@ -1,15 +1,21 @@
 <a href="https://github.com/kpeti515/"><img src="https://github-readme-stats.vercel.app/api?username=kpeti515&show_icons=true&count_private=true" align="right" /></a>
 
-### Hi there 👋 I'm Lorand Kallai
+# Hi there 👋 I'm Lorand Kallai
+
 I'm a hungarian junior web developer.
+
 My purpose is to Learn the web development principles and modern techniques and turn them into a creative product which can support peoples / companies.
+
 ---
 
 ## 🚧 Current projects
 <a href="https://github.com/kpeti515/fb_storeage_learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kpeti515&fb_storeage_learn.js" alt="firebase_storage_learn statistics" align="right"></a>
-🔭 I’m currently working on a real world project, to have some automotive supplier related task and document in  a database
+🔭 I’m currently working on a real world project, to have some automotive supplier related task and document in  a database.
+
 💡 Also trying to learn too many things at once, but [Firebase](https://firebase.google.com/) and [React](https://reactjs.org/) is high up on the list.
+
 🤔 I’m looking for help to grow my skills.
+
 💙 Fun fact: Spending more time with coding / learning than with my GF...
 
 ---
