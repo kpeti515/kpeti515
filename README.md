@@ -9,7 +9,7 @@ My purpose is to Learn the web development principles and modern techniques and 
 ---
 
 ## 🚧 Current projects
-<a href="https://github.com/kpeti515/fb_storeage_learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kpeti515&fb_storeage_learn.js" alt="firebase_storage_learn statistics" align="right"></a>
+<a href="https://github.com/kpeti515/fb_storeage_learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kpeti515&repo=fb_storeage_learn" alt="firebase_storage_learn statistics" align="right"></a>
 🔭 I’m currently working on a real world project, to have some automotive supplier related task and document in  a database.
 
 💡 Also trying to learn too many things at once, but [Firebase](https://firebase.google.com/) and [React](https://reactjs.org/) is high up on the list.
