@@ -28,7 +28,9 @@ My purpose is to Learn the web development principles and modern techniques and 
 
 ...unless you're on a small screen, and they're up there ☝️\
 
-the easiest way [💬 contact me on LinkedIn](https://www.linkedin.com/in/lorand-kallai-67747b183/) or send directly an e-mail to 📫<lorandkallai@gmail.com>.
+the easiest way 💬 contact me on [LinkedIn](https://www.linkedin.com/in/lorand-kallai-67747b183/) 
+
+or send directly an e-mail to 📫<lorandkallai@gmail.com>.
 
 ---
 
