@@ -37,6 +37,6 @@ or send directly an e-mail to 📫<lorandkallai@gmail.com>.
 Weekly developement breakdown:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 mins          ████████████████████░░░░░   79.75 % 
+
 ```
 <!--END_SECTION:waka-->
