@@ -37,6 +37,6 @@ or send directly an e-mail to 📫<lorandkallai@gmail.com>.
 Weekly developement breakdown:
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
