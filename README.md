@@ -37,8 +37,6 @@ or send directly an e-mail to 📫<lorandkallai@gmail.com>.
 Weekly developement breakdown:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   35 mins         ███████████████▓░░░░░░░░░   62.94 % 
-JSX          14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
-JSON         6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
